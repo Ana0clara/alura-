@@ -52,7 +52,7 @@ body{
   text-decoration: none;
   display: block;
   padding: 1em;
-  border-radius: 5px;
+  border-radius: 10px;
   margin-bottom: 1em;
   
   
@@ -68,3 +68,25 @@ body{
   font-size: 12px;
   color: var(--cinza-segundario);
 }
+
+/*Começo da segunda seçao a baixo*/
+
+.secundaria{
+  align-items: center;
+  margin: 0 10em;
+}
+.secundario__imagem{
+  width: 80%;
+}
+
+.descricao__titulo{
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--branco-principal);
+  margin: 0.1em;
+}
+
+.descricao__texto{
+  color: var(--cinza-segundario);
+}
+/* Começo da terceira seçao a baixo*/
